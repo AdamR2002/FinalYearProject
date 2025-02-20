@@ -1,0 +1,13 @@
+
+# Ignore system files
+.DS_Store
+
+# Ignore Python cache and virtual environments
+__pycache__/
+backend/__pycache__/
+backend/flask_session/
+*.pyc
+
+# Ignore PyCharm project files
+.idea/
+
